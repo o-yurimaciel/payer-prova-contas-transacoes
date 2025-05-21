@@ -62,7 +62,6 @@ Você deve utilizar obrigatoriamente:
 - Persistência com JPA + banco de dados H2 ou MongoDB (diferencial)
 - Validações com Bean Validation
 - Mapeamento adequado entre entidades (`Conta`, `Transacao`)
-- Testes unitários (JUnit + Mockito)
 - Versionamento com Git (repositório público no GitHub)
 - README com instruções claras de execução
 
